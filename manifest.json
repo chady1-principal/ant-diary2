@@ -1,0 +1,19 @@
+{
+  "name": "보이스 다이어리 - 나의 음성 일기장",
+  "short_name": "음성일기",
+  "description": "스마트폰 음성 인식과 구글 시트 연동 디지털 음성 일기장",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
